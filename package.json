@@ -1,0 +1,18 @@
+{
+  "name": "powerbot-framework",
+  "version": "1.0.0",
+  "description": "This REPO contains the Framwork for my Discord Bot, PowerBot. So you can create your own bot using the PowerBot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-url": "^2.0.1",
+    "chalk": "^2.3.0",
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "prefix" : "Insert Bot Prefix Here (Only one character prefix)",
+    "token" : "Insert Bot Token Here",
+    "owner" : "Insert Owner Discord ID",
+    "version" : "Enter Bot Version Here",
+    "name": "Enter Bot Name Here"
+
+}
